@@ -1,5 +1,5 @@
-% rnvsdg_demo
-% Robust n-person stochastic duel game demo v.0.2
+% rpnsdg_demo
+% Robust Pairwise n-person stochastic duel game demo v.0.2
 %---------------------------------------------------------
 clear all;
 nvsdg_demo_setup
