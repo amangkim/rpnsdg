@@ -1,4 +1,4 @@
 # rnsdg
 Robust n-Person Stochastic Duel Game
 
-Run: ">> rnvsdg_demo"
+Run: ">> rpnsdg_demo"
