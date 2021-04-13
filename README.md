@@ -2,10 +2,11 @@
 ### *rpnsdg_demo*  --  Matlab Programing Demo
 
 #### Run: ">> rpnsdg_demo"
-
+</br>
+</br>
 
 ## Reference Citation
-* **Kim, S.-K.** (2020)**, <a href="https://www.mdpi.com/2227-7390/9/8/825" target="_blank">**Robust Pairwise n-Person Stochastic Duel Game**, *Mathematics* **9** (8) (2021), 825.</a></br>
+* **Kim, S.-K.** (2020), <a href="https://www.mdpi.com/2227-7390/9/8/825" target="_blank">**Robust Pairwise n-Person Stochastic Duel Game**, *Mathematics* **9** (8) (2021), 825.</a></br>
 </br>
 
 
